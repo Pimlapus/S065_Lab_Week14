@@ -1,0 +1,21 @@
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/Pimlapus/pluginHost.git
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/Pimlapus/pluginInterface.git
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/Pimlapus/plugin1.git
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/Pimlapus/plugin2.git
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/Pimlapus/plugin3.git
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/Pimlapus/plugin4.git
+[submodule "PluginPimlapus"]
+	path = PluginPimlapus
+	url = https://github.com/Pimlapus/PluginPimlapus.git
